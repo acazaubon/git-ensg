@@ -62,7 +62,7 @@ Pour voir la config : `git config --list` et `git config --list --global`
 
 ## Commencer/Récupérer un projet Git
 
-Pour initialiser un nouveau projet Git, la commande est `git init`. Cependant, il est souvent plus fréquent de créer son projet sur une plateforme en ligne (GitHub, GitLab), puis de récupérer son projet en local (ce que l’on appelle cloner).
+Pour initialiser un nouveau projet Git, la commande   est `git init`. Cependant, il est souvent plus fréquent de créer son projet sur une plateforme en ligne (GitHub, GitLab), puis de récupérer son projet en local (ce que l’on appelle cloner).
 
 !!! info "TP 1 - Commencement"
 
@@ -78,7 +78,7 @@ Pour initialiser un nouveau projet Git, la commande est `git init`. Cependant, i
 
     Tout le monde a normalement récupéré le projet !
 
-Quand on souhaite cloner un projet qui ne nous appartient pas, il est préférable d’en créer une copie (ce que l’on appelle un *fork*)
+Quand on souhaite cloner un projet qui ne nous appartient pas     , il est préférable d’en créer une copie (ce que l’on appelle un *fork*)
 
 - on «forke» un projet existant dans son espace GitHub/GitLab
 - on clone son fork sur son ordinateur avec `git clone <url>`
